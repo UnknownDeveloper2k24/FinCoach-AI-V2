@@ -58,3 +58,6 @@ dist/
 
 # Build
 .turbo/
+finpilot/
+finpilot-frontend/
+shadcn_init__/
